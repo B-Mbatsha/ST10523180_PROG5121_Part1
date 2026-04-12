@@ -20,15 +20,16 @@
     -  A digit
     -  It is 8 characters long or more
     3. The users phonenumber has a south african international code
-
-    ## Mainapp class
+   ---    
+   ## Mainapp class
     - In this class a user is prompted to enter their information which is :
       1. Their Username
       2. Their Password
       3. Their Phonenumber
       - Provided that they follow the rules above in the login class
         their information shall be accepted then captured in the respective variables
-
-    ## LoginTest class
-    - This class is used to read each line of code in the respective classes to check if they are          fuctioning as they should 
+      ---  
+   ## LoginTest class
+    - This class is used to read each line of code in the respective classes to check if they are       fuctioning as they should
+      --- 
     --- 
