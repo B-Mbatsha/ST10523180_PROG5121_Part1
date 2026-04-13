@@ -1,4 +1,4 @@
-# Chat Application - Part 1
+# Chat Application - Part1
 
 ## Student Info
 - Name : Buhlebenkosi
